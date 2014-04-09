@@ -1,0 +1,21 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<title>Node Page</title>
+<style>
+.error{
+	color:red;
+	font-size:10pt;
+}
+</style>
+</head>
+<body>
+	欢迎访问NodeJs系统 <br>
+	<span>
+		<a href="http://wenku.baidu.com/link?url=S3FwhhtB7afvKW1KCwum1DfF79EYfj2VQraN08GU5gNRlVGrTbzEZSh-Z4PX8qMf_UQ8Pj_j8co5xJDHrjjwemISSFowoaPuL4XC5jaZEsS" target="_blank">nodejs实例讲解-Ajax long-polling长链接刷新模式</a>
+	</span><br>
+	<span>
+		<a href="http://www.cnblogs.com/QLeelulu/archive/2011/05/06/2039266.html" target="_blank">用Eclipse调试Node.js代码</a>
+	</span>
+</body>
+</html>
